@@ -18,7 +18,7 @@ title: 3 Corners Cleaning
 subtitle: "Residential & Commercial Cleaning"
 url: "http://3cornerscleaning.github.io" # the base hostname & protocol for your site
 # baseurl: "/the/subpath/of/your/site" # Set this value to "" if you want your site to be root
-baseurl: "/airRC"
+baseurl: "/"
 cover: "/assets/cover.png"
 logo: "/assets/logo.png"
 
